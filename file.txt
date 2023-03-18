@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome from local repo
+=======
+welcome from local repo "Mohamed Fathi"
+>>>>>>> f2d0ae2b03d539755c9328944ba60e2a96d6f052
